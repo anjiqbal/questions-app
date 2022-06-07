@@ -7,11 +7,14 @@ const questions = {
     '1' :{
         'question' : 'Tell us about yourself.'
     },
-    '2': {
-        'question' : 'This is question 2'
+    '1': {
+        'question' : ' Give me an example of the project or initiative that you started on your own. It can be a non-business one. What prompted you to get started?'
+    },
+    '2' : {
+        'question' : 'Tell me about a time you had to work on several projects at once. How did you handle this?'
     },
     '3' : {
-        'question' : 'This is question 3'
+        'question' : 'Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?'
     }
 }
 
